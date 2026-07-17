@@ -2,7 +2,7 @@
 
 A Python-based data analysis project that processes global COVID-19 data to uncover trends, identify the most impacted countries, and visualize case distributions using `pandas`, `matplotlib`, and `seaborn`.
 
-## 📊 Project Overview
+## Project Overview
 
 This repository contains the implementation of a data analysis workflow designed to handle, clean, and visualize pandemic tracking metrics. The objective is to extract meaningful insights from a structured time-series dataset through statistical aggregations and data visualizations.
 
@@ -14,7 +14,7 @@ This repository contains the implementation of a data analysis workflow designed
 
 ---
 
-## 💾 Dataset
+## Dataset
 
 The analysis utilizes the public COVID-19 dataset available on Kaggle.
 *   **Source:** [Kaggle - COVID-19 Virus Report](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
@@ -22,7 +22,7 @@ The analysis utilizes the public COVID-19 dataset available on Kaggle.
 
 ---
 
-## 🛠️ Tech Stack & Dependencies
+## Tech Stack & Dependencies
 
 This project relies on the core Python data science library stack:
 
