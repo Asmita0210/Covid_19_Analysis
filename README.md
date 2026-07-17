@@ -20,8 +20,6 @@ The analysis utilizes the public COVID-19 dataset available on Kaggle.
 *   **Source:** [Kaggle - COVID-19 Virus Report](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
 *   **Target File:** `covid_19_clean_complete.csv`
 
-Ensure you download the dataset and place it in your project's root directory or a designated `data/` folder before executing the scripts.
-
 ---
 
 ## 🛠️ Tech Stack & Dependencies
